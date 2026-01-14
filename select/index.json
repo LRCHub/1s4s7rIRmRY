@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DON'T STOP THE MUSIC",
+  "base_artist": "LOU GRANT",
+  "createdAt": "2026-01-14T01:57:29.161220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Stop The Music",
+      "artist": "Yarbrough & Peoples",
+      "has_synced": false,
+      "path": "select/01_Don't_Stop_The_Music_Yarbrough_&_Peoples.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Stop the Rock",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/02_Don't_Stop_the_Rock_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Stop the Rock",
+      "artist": "Freestyle",
+      "has_synced": false,
+      "path": "select/03_Don't_Stop_the_Rock_Freestyle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Stop the Rock (Electronic Battle Weapon Version)",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/04_Don't_Stop_the_Rock_(Electronic_Battle_Weapon_Version)_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Stop The Show",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/05_Don't_Stop_The_Show_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Stop the Dance",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/06_Don’t_Stop_the_Dance_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/07_Don't_Stop_The_Music_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/08_Don't_Stop_The_Music_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Stop The Music - The Wideboys Club Mix",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/09_Don't_Stop_The_Music_-_The_Wideboys_Club_Mix_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Stop The Music (The Wideboys Club Mix)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/10_Don't_Stop_The_Music_(The_Wideboys_Club_Mix)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Stop the Music",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/11_Don't_Stop_the_Music_Robyn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dont Stop The Music (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/12_Dont_Stop_The_Music_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Stop The Music - Solitaire's More Drama Remix",
+      "artist": "Rhianna",
+      "has_synced": false,
+      "path": "select/13_Don't_Stop_The_Music_-_Solitaire's_More_Drama_Remix_Rhianna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dont Stop The Music (Solitaires More Drama Remix)",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/14_Dont_Stop_The_Music_(Solitaires_More_Drama_Remix)_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dont Stop The Music (The Wideboys Club Mix)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/15_Dont_Stop_The_Music_(The_Wideboys_Club_Mix)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Stop the Music (Wideboys radio edit)",
+      "artist": "Rhianna",
+      "has_synced": false,
+      "path": "select/16_Don't_Stop_the_Music_(Wideboys_radio_edit)_Rhianna.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Please Don't Stop the Rain",
+      "artist": "James Morrison",
+      "has_synced": true,
+      "path": "select/17_Please_Don't_Stop_the_Rain_James_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Stop the Love",
+      "artist": "98o",
+      "has_synced": true,
+      "path": "select/18_Don't_Stop_the_Love_98o.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stop The Music",
+      "artist": "LOU GRANT",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stop_The_Music_LOU_GRANT.txt"
+    }
+  ]
+}
